@@ -3,7 +3,7 @@
     <rom name="ABC ROM" id="abc" />
     <rom name="AospExtended" id="ro.aex.device" />
     <rom name="AIM" id="aim" />
-    <rom name="Android Ice Cold Project" id="aicp" />
+    <rom name="Android Ice Cold Project" id="ro.aicp.version" />
     <rom name="Android Open Source Illusion Project" id="aosip" />
     <rom name="Beltz" id="beltz" />
     <rom name="Benzo" id="benzo" />
