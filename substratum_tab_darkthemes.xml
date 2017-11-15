@@ -357,7 +357,7 @@
         <package>com.samsoft.dirtysubs</package>
         <pricing>Free</pricing>
         <support>overlays|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/derty_dark</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/derty_dark.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/tWDEwHkAmRENAIHSGMJDC5glI4xFC5yyOr6t2gKMYrZbPUaY4-bExE9cl9ug-oP4qDg=w300-rw</image>
     </theme>
     <theme id="ThaJoker SupernovaRemix">
