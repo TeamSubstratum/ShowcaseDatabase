@@ -45,6 +45,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/bootforsubs.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/U1lBPeTNoxENSUpIuyFGJ6BLXa2bBcoWO7nIwaLiG9jGLyXYgSH3JHvPzBuAzwB1-zKi=w300-rw</image>
     </theme>
+    <theme id="Curve">
+        <author>Gaurav Singh</author>
+        <link>https://play.google.com/store/apps/details?id=com.gaurav.curve</link>
+        <package>com.gaurav.curve</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/curve.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/Omb60_HE2IzKf01_7Oqf5JO0pF9easy_H9j5b3fea70ZxxPW0dpq6ZYAptBu9NM1a0YcZYwmCjcMKPb0gTwY3u02CQlwYb-O46A=w300-rw</image>
+    </theme>
     <theme id="Ewhats Color">
         <author>Eduardo Saiz Perez</author>
         <link>https://play.google.com/store/apps/details?id=com.dudu.EWhatsthemelite</link>
