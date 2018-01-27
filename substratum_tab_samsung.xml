@@ -56,6 +56,13 @@
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ohayoubakastatusbar.jpg</backgroundimage>
     </theme>
+	<theme id="StatusBar Icons (+extras) for Samsung (DONATE)">
+        <author>ohayoubaka</author>
+        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.statusbarsamsung.donate</link>
+        <package>com.ohayoubaka.statusbarsamsung.donate</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ohayoubakastatusbar.jpg</backgroundimage>
+    </theme>
     <theme id="Swift Dark">
         <author>Per Lycke</author>
         <link>https://play.google.com/store/apps/details?id=com.brit.swiftdark.substratum</link>
