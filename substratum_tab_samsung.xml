@@ -49,7 +49,7 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nano.png</backgroundimage>
     </theme>
-    <theme id="StatusBar Icons (+extras) for Samsung">
+    <theme id="StatusBar Icons (+extras) for Samsung (FREE)">
         <author>ohayoubaka</author>
         <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.statusbarsamsung</link>
         <package>com.ohayoubaka.statusbarsamsung</package>
@@ -70,7 +70,7 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.jpg</backgroundimage>
     </theme>
-	<theme id="Transparent Lockscreen for SAMSUNG">
+	<theme id="Transparent Lockscreen for SAMSUNG (FREE)">
         <author>ohayoubaka</author>
         <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.transparentlockscreensamsung</link>
         <package>com.ohayoubaka.transparentlockscreensamsung</package>
@@ -91,7 +91,7 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/viktoria.png</backgroundimage>
     </theme>
-	<theme id="yoru. for Samsung Oreo">
+	<theme id="yoru. for Samsung Oreo (FREE)">
         <author>ohayoubaka</author>
         <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.yoru</link>
         <package>com.ohayoubaka.yoru</package>
