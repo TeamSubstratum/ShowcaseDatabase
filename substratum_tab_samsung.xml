@@ -70,20 +70,6 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.jpg</backgroundimage>
     </theme>
-	<theme id="<theme id="Transparent Lockscreen for SAMSUNG">
-        <author>ohayoubaka</author>
-        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.transparentlockscreensamsung</link>
-        <package>com.ohayoubaka.transparentlockscreensamsung</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparentlock.jpg</backgroundimage>
-    </theme>
-	<theme id="<theme id="Transparent Lockscreen for SAMSUNG DONATE">
-        <author>ohayoubaka</author>
-        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.transparentlockscreensamsung.donate</link>
-        <package>com.ohayoubaka.transparentlockscreensamsung.donate</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparentlock.jpg</backgroundimage>
-    </theme>
     <theme id="Viktoria">
         <author>Giorgio Cantoni (folgore95)</author>
         <link>https://play.google.com/store/apps/details?id=it.folgore95.viktoria</link>
