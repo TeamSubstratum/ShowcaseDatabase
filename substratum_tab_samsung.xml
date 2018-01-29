@@ -64,7 +64,7 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ohayoubakastatusbar.png</backgroundimage>
     </theme>
     <theme id="Swift Black">
-        <author>Per Lycke & Davide Lilli</author>
+        <author>Per Lycke &amp; Davide Lilli</author>
         <link>https://play.google.com/store/apps/details?id=com.brit.swiftblack.layers</link>
         <package>com.brit.swiftblack.layers</package>
         <pricing>Paid</pricing>
