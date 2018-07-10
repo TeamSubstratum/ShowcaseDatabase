@@ -394,4 +394,11 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/wavvy.jpg</backgroundimage>
     </theme>
+    <theme id="Victory">
+        <author>Giorgio Cantoni (folgore95)</author>
+        <link>https://play.google.com/store/apps/details?id=it.folgore95.viktoria</link>
+        <package>it.folgore95.viktoria</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/victory.png</backgroundimage>
+    </theme>
 </substratum>
