@@ -12,12 +12,6 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/biohazardsamsung.jpg</backgroundimage>
     </theme>
-    <theme id="Christmas">
-        <author>Piere R</author>
-        <package>me.piere.christmas</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/christmas.jpg</backgroundimage>
-    </theme>
     <theme id="Cygnus">
         <author>Piere R</author>
         <package>me.piere.cygnus</package>

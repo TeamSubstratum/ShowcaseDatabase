@@ -18,12 +18,6 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuidarkgray.png</backgroundimage>
     </theme>
-    <theme id="Beltz Theme">
-        <author>Jimmy Setiawan</author>
-        <package>bitsykolayers.Midnight</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/beltz.png</backgroundimage>
-    </theme>
     <theme id="BigBlu">
         <author>cerj</author>
         <package>com.cerj.bigblu</package>
@@ -36,12 +30,6 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/biohazard.jpg</backgroundimage>
     </theme>
-    <theme id="Black Mech">
-        <author>BreakCore_Rush</author>
-        <package>ssblackmech.breakcore_rush.theme</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blackmech.jpg</backgroundimage>
-    </theme>
     <theme id="BlueDragoon">
         <author>Ananda Basak</author>
         <package>com.anandabasak.extendedUI</package>
@@ -53,12 +41,6 @@
         <package>com.subs.compound</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/compound.jpg</backgroundimage>
-    </theme>
-    <theme id="Cosmos">
-        <author>CisGenderCats</author>
-        <package>com.CisGenderCats.themes.cosmos</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/cosmos.jpg</backgroundimage>
     </theme>
     <theme id="DarkCroc Theme">
         <author>SpiritCroc</author>
@@ -102,12 +84,6 @@
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/derty_dark.jpg</backgroundimage>
     </theme>
-    <theme id="DNA Dark Project">
-        <author>Mike xdnax</author>
-        <package>com.xdnax.apps.dnadarkproject</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/dnadark.jpg</backgroundimage>
-    </theme>
     <theme id="Domination">
         <author>David Wilson</author>
         <package>com.annihilation.dominationdonate</package>
@@ -131,18 +107,6 @@
         <package>flux.substratum.theme</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flux.jpg</backgroundimage>
-    </theme>
-    <theme id="Game Over!">
-        <author>Samuel Garcia</author>
-        <package>com.samsonincorporated.gameover</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gameover.jpg</backgroundimage>
-    </theme>
-    <theme id="Glow">
-        <author>Wasim Khan</author>
-        <package>substratum.blinq.glow</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/glow.jpg</backgroundimage>
     </theme>
     <theme id="Gravija">
         <author>Piere R</author>
@@ -174,24 +138,6 @@
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/m5theme.png</backgroundimage>
     </theme>
-    <theme id="Magpie">
-        <author>Jimmy Setiawan</author>
-        <package>com.setiawanjimmy.TheMagpie</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
-    </theme>
-    <theme id="ModernUI Free">
-        <author>Laszlo Szecsenyi</author>
-        <package>sub.kickoff.modernui</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/modernuifree.png</backgroundimage>
-    </theme>
-    <theme id="ModernUI Pro">
-        <author>Laszlo Szecsenyi</author>
-        <package>sub.kickoff.modernuipro</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/modernuipro.png</backgroundimage>
-    </theme>
     <theme id="Mono/Art">
         <author>De Jan (llevo3)</author>
         <package>connoisseurship.project.mono</package>
@@ -209,12 +155,6 @@
         <package>dejan.llevo3.nineteen</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nineteen.jpg</backgroundimage>
-    </theme>
-    <theme id="Onyx">
-        <author>Steven Sawyer (Archangel)</author>
-        <package>com.archangel.onyx.dark.substratum</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/onyx.jpg</backgroundimage>
     </theme>
     <theme id="OrangeKitten PRO">
         <author>Ivan Iskandar</author>
@@ -302,12 +242,6 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/Sprite.jpg</backgroundimage>
     </theme>
-    <theme id="ThaJoker SupernovaRemix">
-        <author>Train88</author>
-        <package>com.train88.thajoker</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
-    </theme>
 	<theme id="Twilight Night Black">
         <author>Alice Project</author>
         <package>aliceteam.theme.twilight.night.black</package>
@@ -343,17 +277,5 @@
         <package>it.folgore95.viktoria</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/victory.png</backgroundimage>
-    </theme>
-    <theme id="View">
-        <author>Gianluca Spadazzi</author>
-        <package>com.spada.view</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/view.png</backgroundimage>
-    </theme>
-    <theme id="Wavvy">
-        <author>Not Just Another Designer</author>
-        <package>njad.wavvysubs.theme</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/wavvy.jpg</backgroundimage>
     </theme>
 </substratum>
