@@ -284,4 +284,10 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/victory.png</backgroundimage>
     </theme>
+    <theme id="Wavvy">
+        <author>Not Just Another Designer</author>
+        <package>njad.wavvysubs.theme</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/wavvy.jpg</backgroundimage>
+    </theme>
 </substratum>
