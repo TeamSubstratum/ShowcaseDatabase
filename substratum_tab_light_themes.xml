@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="Aurora">
+        <author>CyTech</author>
+        <package>com.cytech.aurora</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aurora.jpg</backgroundimage>
+    </theme>
     <theme id="Alined">
         <author>Rahul K Dinesh</author>
         <package>com.b16h22.alined</package>
@@ -23,6 +29,12 @@
         <package>com.cytech.breeze</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/breeze.jpg</backgroundimage>
+    </theme>
+    <theme id="Coalfield">
+        <author>Andre Zimmermann (Kohlewrrk)</author>
+        <package>com.kohlewrrk.coalfield.subs</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/coalfield.jpg</backgroundimage>
     </theme>
     <theme id="Compound [light]">
         <author>Daniel Schott</author>
@@ -138,6 +150,12 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/harmony.jpg</backgroundimage>
     </theme>
+    <theme id="NovaUI">
+        <author>CyTech</author>
+        <package>com.cytech.nova</package>
+        <pricing>Free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/novaui.jpg</backgroundimage>
+    </theme>
     <theme id="Outline">
         <author>Niklas Schnettler</author>
         <package>com.schnettler.outline</package>
@@ -155,6 +173,12 @@
         <package>com.leofracca.risaltosubs</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/risalto.png</backgroundimage>
+    </theme>
+    <theme id="Reverie">
+        <author>Andre Zimmermann (Kohlewrrk)</author>
+        <package>com.kohlewrrk.reverie.subs</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/reverie.jpg</backgroundimage>
     </theme>
     <theme id="Rounded UI">
         <author>Gianluca Spadazzi</author>
